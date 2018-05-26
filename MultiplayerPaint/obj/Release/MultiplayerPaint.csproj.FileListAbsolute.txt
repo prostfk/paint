@@ -1,0 +1,9 @@
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\obj\Release\MultiplayerPaint.Properties.Resources.resources
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\obj\Release\MultiplayerPaint.csproj.GenerateResource.Cache
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\bin\Release\MultiplayerPaint.exe.config
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\bin\Release\MultiplayerPaint.exe
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\bin\Release\MultiplayerPaint.pdb
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\bin\Release\protobuf-net.dll
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\obj\Release\MultiplayerPaint.frmPaint.resources
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\obj\Release\MultiplayerPaint.exe
+c:\users\charles-isaac\documents\visual studio 2015\Projects\MultiplayerPaint\MultiplayerPaint\obj\Release\MultiplayerPaint.pdb

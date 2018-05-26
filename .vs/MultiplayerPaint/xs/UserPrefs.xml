@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E18DF40C-107D-4170-9FBD-6CF8707D4B4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiplayerPaint/PacketManager.cs">
+    <Files>
+      <File FileName="MultiplayerPaint/PacketManager.cs" Line="116" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MultiplayerPaint PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
