@@ -1,0 +1,13 @@
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.exe.config
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.exe
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.pdb
+C:\Users\Anna\Desktop\ptlab12Server\Server\bin\Debug\ptlab12Server.exe.config
+C:\Users\Anna\Desktop\ptlab12Server\Server\obj\Debug\ptlab12Server.exe
+C:\Users\Anna\Desktop\ptlab12Server\Server\obj\Debug\ptlab12Server.pdb
+C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\bin\Debug\ptlab12Server.exe.config
+C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\bin\Debug\ptlab12Server.exe
+C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\bin\Debug\ptlab12Server.pdb
+C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\obj\Debug\ptlab12Server.exe
+C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\obj\Debug\ptlab12Server.pdb

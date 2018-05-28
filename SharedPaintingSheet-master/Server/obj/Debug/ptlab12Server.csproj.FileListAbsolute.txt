@@ -1,0 +1,18 @@
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.exe.config
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.exe
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.pdb
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.csprojResolveAssemblyReference.cache
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.exe
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.pdb
+F:\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.exe.config
+F:\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.exe
+F:\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.pdb
+F:\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.exe
+F:\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.pdb
+F:\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.exe.config
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.exe
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.pdb
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.exe
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\bin\Debug\ptlab12Server.pdb
+C:\Users\Anna\Desktop\ptlab12Server\ptlab12Server\obj\Debug\ptlab12Server.csprojResolveAssemblyReference.cache
