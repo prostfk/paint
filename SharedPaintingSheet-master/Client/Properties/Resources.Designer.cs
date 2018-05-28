@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ptlab12.Properties
+namespace prostrmk.Properties
 {
 
 

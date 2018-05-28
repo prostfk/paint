@@ -1,7 +1,7 @@
-﻿<Application x:Class="ptlab12.App"
+﻿<Application x:Class="prostrmk.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:ptlab12"
+             xmlns:local="clr-namespace:prostrmk"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
