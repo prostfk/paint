@@ -7,7 +7,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ptlab12Server
+namespace prostrmk
 {
     class Program
     {

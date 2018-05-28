@@ -4,7 +4,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Windows.Media;
 
-namespace ptlab12Server
+namespace prostrmk
 {
     [Serializable]
     public class DrawingData

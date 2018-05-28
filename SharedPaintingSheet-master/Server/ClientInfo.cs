@@ -5,7 +5,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ptlab12Server
+namespace prostrmk
 {
     class ClientInfo
     {

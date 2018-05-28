@@ -32,7 +32,7 @@
             </StackPanel>
             <Button Name="connectButton" Content="Connect" Margin="8" FontFamily="Cambria" FontSize="14" Click="connectButton_Click"/>
             <Button Name="disconnectButton" Content="Disconnect" Margin="8" FontFamily="Cambria" FontSize="14" Click="disconnectButton_Click"/>
-            <xctk:ColorPicker Name="colorPicker" DisplayColorAndName="True" SelectedColor="Orange" Margin="8" FontFamily="Cambria" FontSize="14" SelectedColorChanged="ColorPicker_SelectedColorChanged"/>
+            <xctk:ColorPicker Name="colorPicker" DisplayColorAndName="True" SelectedColor="#FF700000" Margin="8" FontFamily="Cambria" FontSize="14" SelectedColorChanged="ColorPicker_SelectedColorChanged"/>
         </StackPanel>
     </Grid>
 </Window>

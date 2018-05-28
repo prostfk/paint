@@ -11,3 +11,10 @@ C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\S
 C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\obj\Debug\ptlab12Server.exe
 C:\Users\prost\Downloads\SharedPaintingSheet-master\SharedPaintingSheet-master\Server\obj\Debug\ptlab12Server.pdb
+C:\Users\prost\Desktop\projects\ksis\SharedPaintingSheet-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\prost\Desktop\projects\ksis\SharedPaintingSheet-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\prost\Desktop\projects\ksis\SharedPaintingSheet-master\Server\bin\Debug\prostrmk.exe.config
+C:\Users\prost\Desktop\projects\ksis\SharedPaintingSheet-master\Server\bin\Debug\prostrmk.exe
+C:\Users\prost\Desktop\projects\ksis\SharedPaintingSheet-master\Server\bin\Debug\prostrmk.pdb
+C:\Users\prost\Desktop\projects\ksis\SharedPaintingSheet-master\Server\obj\Debug\prostrmk.exe
+C:\Users\prost\Desktop\projects\ksis\SharedPaintingSheet-master\Server\obj\Debug\prostrmk.pdb
