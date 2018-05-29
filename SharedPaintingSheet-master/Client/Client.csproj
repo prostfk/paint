@@ -7,8 +7,8 @@
     <ProjectGuid>{FC03607A-8AB4-408F-BB12-78A432152FA6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ptlab12</RootNamespace>
-    <AssemblyName>ptlab12</AssemblyName>
+    <RootNamespace>prostrmk</RootNamespace>
+    <AssemblyName>prostrmk</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
